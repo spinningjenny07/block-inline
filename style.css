@@ -1,11 +1,13 @@
 /* Put your CSS rules here: */
 
 .picture_container {
-	padding: 10px 10px 0px 0px;
-	border: 10px solid blue;
 	background-color: black;
 }
 
+.creepy_picture {
+	padding: 10px 10px 0 0;
+	border: 10px solid blue;
+}
 .bold {
 	font-weight: bold;
 }
