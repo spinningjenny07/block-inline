@@ -21,7 +21,8 @@
 .tiled_container > div {
 	background-color: white;
 	height: 10px;
-	border: 5px 0px 5px 0px;
+	border-top: 5px; 
+	border-bottom: 5px;
 	border-color: black;
 	border-style: solid;
 }
